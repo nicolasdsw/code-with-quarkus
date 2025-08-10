@@ -1,0 +1,1 @@
+java -Dquarkus.config.locations=./src/main/resources/application.properties -jar target/code-with-quarkus-1.0.0-SNAPSHOT.jar
